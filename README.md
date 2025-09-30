@@ -49,7 +49,7 @@ and a simple UI for testing.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ananthithanumoorthy/CustomerSubscriptionApp.Web
+git clone https://github.com/ananthithanumoorthy/CustomerSubscriptionApp.Web.git
 cd CustomerSubscriptionApp
 ```
 
